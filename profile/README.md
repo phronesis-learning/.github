@@ -28,7 +28,7 @@ We do not issue participation certificates. Every credential verified on [`phron
 
 ### Open-Source Lab & Graduate Showcases
 
-- **[`cohort-02-open-lab`](https://github.com/phronesis-learning/cohort-02-open-lab)** — Collaborative open-source engineering lab for Winter 2026 built on real Egyptian market data (including the DrugShift × Phronesis educational pharmaceutical pricing snapshot).
+- **[`cohort-02-open-lab`](https://github.com/phronesis-learning/cohort-02-open-lab)** — Collaborative open-source engineering lab for Winter 2026 built on real Egyptian market data (including the Egypt Pharma Pricing Open Dataset (EPPOD v1)).
 - **`cohort-01-showcase`** — Curated directory of verified Round 1 graduate repositories and live demos.
 
 ### Graduate README Badge
